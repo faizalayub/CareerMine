@@ -1,7 +1,7 @@
 # Hello 👋
 
 ### 👨🏻‍💻 About Me
-Hello, my name is Muhammad Faizal, but everyone calls me Faizal. I'm a full-stack programmer and here you'll see a short summary about me. I'm a self-taught passionate FrontEnd developer from Malaysia 🇲🇾
+Hello, my name is Muhammad Faizal, but everyone calls me Faizal. I'm a self-taught passionate FrontEnd developer from Malaysia 🇲🇾 and here you'll see a short summary about me.
 
 I've been working for a few years in the development area, where every day I try to improve my self.
 
