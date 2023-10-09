@@ -16,6 +16,8 @@ I've been working for a few years in the development area, where every day I try
     <img alt="streak" width="390px" src="http://github-readme-streak-stats.herokuapp.com/?user=faizalayub&theme=radical&show_icons=true">
 </p>
 
+<img alt="graph" src="https://github-readme-activity-graph.vercel.app/graph?username=faizalayub&bg_color=ffffff&color=000000&line=4c9e5d&point=4b9d5c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+
 <p align="center">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalayub&layout=compact&theme=radical&langs_count=10">
 </p>
