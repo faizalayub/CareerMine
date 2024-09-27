@@ -5,7 +5,7 @@ Hello, my name is Muhammad Faizal, but everyone calls me Faizal. I'm a self-taug
 
 I've been working for a few years in the development area, where every day I try to improve my self.
 
-- 💼 I currently work at Sales Connection
+- 💼 I currently work at Sime Darby Property as Fullstack Developer
 - 🎓 At the moment studying mobile applications development as to improve my skill set.
 - 👯 I'm looking to collaborate on humanitarian cause projects. But I'm not just closed to that, if you have an open source project that needs any of my qualifications, don't hesitate to contact me.
 - ❤ Besides programming, I love games and movies.
